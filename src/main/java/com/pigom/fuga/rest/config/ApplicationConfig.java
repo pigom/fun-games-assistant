@@ -1,4 +1,4 @@
-package com.pigom.fuga.rest.injection;
+package com.pigom.fuga.rest.config;
 
 import com.pigom.fuga.rest.services.PlayerRepository;
 import org.springframework.context.annotation.Bean;
